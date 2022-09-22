@@ -1,0 +1,19 @@
+{
+  "name": "node_auth_api",
+  "version": "1.0.0",
+  "description": "Authentication API in node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godofgeeks23/node_auth_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godofgeeks23/node_auth_api/issues"
+  },
+  "homepage": "https://github.com/godofgeeks23/node_auth_api#readme"
+}
